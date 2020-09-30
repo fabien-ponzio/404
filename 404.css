@@ -1,0 +1,28 @@
+/* bouton retour homepage */
+.erreur{
+    text-align: center;
+    border:#f368e0 solid;
+    margin-right: 50;
+    margin-left: 50;
+    border-radius: 20px;
+    font-family: 'Bangers', cursive;
+    color: white;
+    background-color: black;
+
+}
+.erreur:hover{
+    color: black;
+    background-color: white;
+    transition: 900ms;
+    border-radius: 20px;
+}
+.texte {
+    text-align: center;
+    font-family: 'Bangers', cursive;
+    color: white
+    ;
+}
+body {background: url("http://reactiongifs.me/wp-content/uploads/2014/03/damm-ice-cube-chris-tucker-friday-film.gif")
+    no-repeat center center fixed;
+    background-size: cover;
+}
